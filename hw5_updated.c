@@ -1,6 +1,12 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+/**
+ *
+ * @author beksultan
+ */
+
+
 typedef struct TollStruct
 {
     long long int length;			// length of instance of a structure for a segment
