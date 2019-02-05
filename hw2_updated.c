@@ -1,6 +1,11 @@
 #include <stdio.h> 
 #include <math.h> 
 
+/**
+ *
+ * @author beksultan
+ */
+
 long long int countZeros(long long int n, long long int base);
 long long int findNumberOfDigits( long long int  low, long long int high, long long int base);
 long long int runOfZeros(long long int num, long long int base);
