@@ -4,6 +4,11 @@
 #include <string.h>
 #include <assert.h>
 
+/**
+ *
+ * @author beksultan
+ */
+
 
 typedef struct TEmployee
 {
