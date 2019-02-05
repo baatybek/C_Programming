@@ -1,6 +1,11 @@
 #include <stdio.h>
 #include <math.h>
 
+/**
+ *
+ * @author beksultan
+ */
+
 double min(double a, double b);
 
 int main()
