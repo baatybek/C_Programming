@@ -2,6 +2,10 @@
 #include <stdlib.h>
 #include <math.h>
 
+/**
+ *
+ * @author beksultan
+ */
 
 void swap(int* a, int* b) 
 { 
