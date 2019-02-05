@@ -5,6 +5,12 @@
 #include <assert.h>
 #endif /* __PROGTEST__ */
 
+/**
+ *
+ * @author beksultan
+ */
+
+
 unsigned long long int hyperloop                           ( unsigned long long int length,
                                                              unsigned int        s1,
                                                              unsigned int        s2,
